@@ -1,2 +1,2 @@
 # Renalsoft
-This repository contain a project about system renal
+This repository contains a project about renal system
